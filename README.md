@@ -1,0 +1,4 @@
+- Hello everyone!
+- I am Corgi!
+- I am studying game programming and development at SNHU!
+- I am currently learning Python, Java, and JavaScript!
